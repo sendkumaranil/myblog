@@ -1801,3 +1801,16 @@ blockquote {
 .uipasta-credit a:hover {
     color: #333333;
 }
+
+.btnresume {
+    border: none;
+    background-color: inherit;
+    padding: 14px 28px;
+    font-size: 16px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+/* resumesucces */
+.resumeinfo {color: dodgerblue;}
+.btnresume:hover {background: #eee;}
